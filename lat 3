@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>form</title>
+<form>
+	Jenis Kelamin:
+	<input type="radio" name="jkl" id="pria" value="pria"/>
+	<label for="pria">pria</label>
+	<input type="radio" name="jkl" id="wanita" value="wanita"/>
+	<label for="wanita">wanita</label>
+</form>
+</html>
+	
+	

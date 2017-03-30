@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>form</title>
+<form>
+	<label for="program">Program :</label>
+	<select name="program" id="program">
+		<option value="">Pilih Prodi</option>
+		<option value="teknik informatika">teknik informatika</option>
+		<option value="sistem informasi">sistem informasi</option>
+		<option value="management infomatika">management infomatika</option>
+		<option value="KA">KA</option>
+	</select>
+</form>
+</html>

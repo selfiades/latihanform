@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>form</title>
+<form>
+	Hoby :
+	<input type="checkbox" name="hoby[]" id="bacabuku" value="baca buku"/>
+	<label for="bacabuku">baca buku</label>
+	<input type="checkbox" name="hoby[]" id="memasak" value="memasak"/>
+	<label for="memasak">memasak</label>
+	<input type="checkbox" name="hoby[]" id="badminton" value="badminton"/>
+	<label for="badminton">badminton</label>
+	<input type="checkbox" name="hoby[]" id="mancing" value="mancing"/>
+	<label for="mancing">mancing</label>
+</form>
+</html>
